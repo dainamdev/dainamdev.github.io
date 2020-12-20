@@ -1,90 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Clarity</title>
+    <title>Tags on GtkTut</title>
     <link>https://dainamdev.github.io/tags/</link>
-    <description>Recent content in Tags on Clarity</description>
+    <description>Recent content in Tags on GtkTut</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://dainamdev.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2020–2020, DainamDev ; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 20 Dec 2020 16:06:53 +0900</lastBuildDate><atom:link href="https://dainamdev.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>css</title>
-      <link>https://dainamdev.github.io/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>gtk</title>
+      <link>https://dainamdev.github.io/tags/gtk/</link>
+      <pubDate>Sun, 20 Dec 2020 16:06:53 +0900</pubDate>
       
-      <guid>https://dainamdev.github.io/tags/css/</guid>
+      <guid>https://dainamdev.github.io/tags/gtk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>featured</title>
-      <link>https://dainamdev.github.io/tags/featured/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>gtk4.0</title>
+      <link>https://dainamdev.github.io/tags/gtk4.0/</link>
+      <pubDate>Sun, 20 Dec 2020 16:06:53 +0900</pubDate>
       
-      <guid>https://dainamdev.github.io/tags/featured/</guid>
+      <guid>https://dainamdev.github.io/tags/gtk4.0/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>html</title>
-      <link>https://dainamdev.github.io/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>release</title>
+      <link>https://dainamdev.github.io/tags/release/</link>
+      <pubDate>Sun, 20 Dec 2020 16:06:53 +0900</pubDate>
       
-      <guid>https://dainamdev.github.io/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://dainamdev.github.io/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dainamdev.github.io/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://dainamdev.github.io/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dainamdev.github.io/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>https://dainamdev.github.io/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dainamdev.github.io/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://dainamdev.github.io/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dainamdev.github.io/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text</title>
-      <link>https://dainamdev.github.io/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dainamdev.github.io/tags/text/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emoji</title>
-      <link>https://dainamdev.github.io/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dainamdev.github.io/tags/emoji/</guid>
+      <guid>https://dainamdev.github.io/tags/release/</guid>
       <description></description>
     </item>
     
