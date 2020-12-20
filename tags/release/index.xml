@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>release on GtkTut</title>
+    <link>https://dainamdev.github.io/tags/release/</link>
+    <description>Recent content in release on GtkTut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020–2020, DainamDev ; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 20 Dec 2020 16:06:53 +0900</lastBuildDate><atom:link href="https://dainamdev.github.io/tags/release/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker cho GTK4 mới ra mắt</title>
+      <link>https://dainamdev.github.io/post/2020-12-20-gtk4-docker/</link>
+      <pubDate>Sun, 20 Dec 2020 16:06:53 +0900</pubDate>
+      
+      <guid>https://dainamdev.github.io/post/2020-12-20-gtk4-docker/</guid>
+      <description>Gần đây, theo thông tin từ GTK Blog GTK4.0 đã ra đời. Đây là bản cập nhật lớn mới nhất sau 9 năm. Chúng ta cần đợi các nhà phát biển bản phân phối tích hợp vào thì mới có thể sử dụng được.
+@DainamDev đã thử biên dịch và chạy thử bản Gtk4.0 này trên Docker.
+Toàn bộ source code cùng cách sử dụng được public tại đây</description>
+    </item>
+    
+  </channel>
+</rss>
